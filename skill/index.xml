@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on AgaveStorm Inc.</title>
+    <link>https://agavestorm.github.io/skill/</link>
+    <description>Recent content in Skills on AgaveStorm Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 14:55:44 +0700</lastBuildDate><atom:link href="https://agavestorm.github.io/skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps</title>
+      <link>https://agavestorm.github.io/skill/devops/</link>
+      <pubDate>Sun, 15 Jan 2023 14:55:44 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/devops/</guid>
+      <description> Microservices  Docker Kubernetes   CI/CD  Ansible  Ansible-pull   Pipelines (Hikari, Azure, Jira, Gogs, Gitlab, etc)    </description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>https://agavestorm.github.io/skill/databases/</link>
+      <pubDate>Sun, 15 Jan 2023 13:54:51 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/databases/</guid>
+      <description> Relational  PostreSQL Transact-SQL ( aka MS-SQL ) MySQL SqLite   Document-oriented  MongoDB   Key-Value  BerkeleyDB    </description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://agavestorm.github.io/skill/python/</link>
+      <pubDate>Sun, 15 Jan 2023 13:52:06 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/python/</guid>
+      <description> Artificial Intelligence Command Line DesktopUI  WxWidgets   Django  Backend Themes Plugins    </description>
+    </item>
+    
+    <item>
+      <title>Typescript &amp; JavaScript</title>
+      <link>https://agavestorm.github.io/skill/javascript/</link>
+      <pubDate>Sun, 15 Jan 2023 13:42:50 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/javascript/</guid>
+      <description>Backend  NodeJS   Frontend  React.js Vue.js Knockout.js   Widgets  JQuery  JQueryUI      Can be done both ways: with typescript and with regular javascript. By default we use typescript + rollup.</description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://agavestorm.github.io/skill/c-sharp/</link>
+      <pubDate>Sun, 15 Jan 2023 13:38:32 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/c-sharp/</guid>
+      <description> .NET Core  Web RestAPI Entity Framework    </description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>https://agavestorm.github.io/skill/php/</link>
+      <pubDate>Sun, 15 Jan 2023 13:35:31 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/php/</guid>
+      <description> Wordpress  Themes Plugins   Laravel AllUnit VihvLCC  </description>
+    </item>
+    
+    <item>
+      <title>C &amp; C&#43;&#43;</title>
+      <link>https://agavestorm.github.io/skill/cpp/</link>
+      <pubDate>Sun, 15 Jan 2023 13:03:34 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/cpp/</guid>
+      <description>Including, but not limited to:
+ Artificial Imtelligence  Yolo Svm Custom algorythms   Servers Desktop GUI ( crossplatform )  Qt WxWidgets   Device integration  SNMP   Embedded Boost Swig (shared libraries interface to be used with other programming languages )  </description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://agavestorm.github.io/skill/java/</link>
+      <pubDate>Sun, 15 Jan 2023 12:26:31 +0700</pubDate>
+      
+      <guid>https://agavestorm.github.io/skill/java/</guid>
+      <description>Including, but not limited too:
+ Web, RestAPI  Spring Spring-Boot   Multimodule MavenProject Command Line Interface Desktop  JavaFX   Mobile  Android SDK    </description>
+    </item>
+    
+  </channel>
+</rss>
